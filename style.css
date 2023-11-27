@@ -1,0 +1,80 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #333;
+}
+
+h1, h2 {
+    font-family: 'Impact', sans-serif;
+    color: #0077cc;
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: 2px solid #333;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+    background-color: #0077cc;
+    color: #ffffff;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+li:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15), 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+li strong {
+    display: block;
+    color: #ffffff;
+    font-size: 1.5em;
+}
+
+li a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+li:hover a {
+    color: #ffffff;
+}
+
+<<<<<<< HEAD
+li a:hover {
+    color: #e74c3c; /* Change this to the desired color for the owner's name and email on hover */
+=======
+li span.email,
+li span.name {
+    display: block;
+    color: #f39c12;
+    font-size: 1em;
+    transition: color 0.3s ease;
+}
+
+li:hover span.email,
+li:hover span.name {
+    color: #e74c3c;
+>>>>>>> dd9f24c7559d2b0c43700f3d827f2c35c9450431
+}
