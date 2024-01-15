@@ -61,9 +61,8 @@ li:hover a {
     color: #ffffff;
 }
 
-<<<<<<< HEAD
 li a:hover {
-    color: #e74c3c; /* Change this to the desired color for the owner's name and email on hover */
+    color: #e74c3c; 
 =======
 li span.email,
 li span.name {
@@ -76,5 +75,4 @@ li span.name {
 li:hover span.email,
 li:hover span.name {
     color: #e74c3c;
->>>>>>> dd9f24c7559d2b0c43700f3d827f2c35c9450431
 }
