@@ -63,16 +63,3 @@ li:hover a {
 
 li a:hover {
     color: #e74c3c; 
-=======
-li span.email,
-li span.name {
-    display: block;
-    color: #f39c12;
-    font-size: 1em;
-    transition: color 0.3s ease;
-}
-
-li:hover span.email,
-li:hover span.name {
-    color: #e74c3c;
-}
