@@ -1,4 +1,4 @@
-# phpAssignmet
+hi# phpAssignmet
 Assignment 3: A Database-Driven Website
 1. Assignment Aims
 This assignment is intended to allow you to demonstrate your ability to develop a simple
@@ -38,11 +38,4 @@ email address link should start up the default email application to send an emai
 6
 the owner. The owner’s name should link to a second page containing the owner’s
 contact details.
-You are welcome to add any other features you wish to your site. A picture of the owner,
-maybe.
-Now use screenshots to document your site and to show how everything works. Include a
-very brief description of the environment you have used (XAMPP or Selene, for example).
-Import your program code into your word processor, and format it neatly using a non-
-proportional font.
-Collate these two into a single document and submit it as PDF. Submit also a zip file of your
-code.
+You are welcome to add any other features you wish to your site.
