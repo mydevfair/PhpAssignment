@@ -1,4 +1,4 @@
-hi# phpAssignmet
+phpAssignmet
 Assignment 3: A Database-Driven Website
 1. Assignment Aims
 This assignment is intended to allow you to demonstrate your ability to develop a simple
@@ -39,5 +39,3 @@ email address link should start up the default email application to send an emai
 the owner. The owner’s name should link to a second page containing the owner’s
 contact details.
 You are welcome to add any other features you wish to your site.
-
-test
